@@ -10,17 +10,17 @@ Audience
 2. Describe the relationship between the audience and the theatre artist.
 3. Analyze and apply the theatre artist's processes and contributions in acting.
 #### Topical Outline: I, II, III
-I. Course Introduction
+##### I. Course Introduction
   A. Definition of theatre as an art form
   B. Theatre’s relationship to other arts
   C. The value of theatre in society and culture
-II. Audience
+##### II. Audience
   A. Relationship to performers
   B. Communal experience
   C. Group communication
   D. Audience influence on the art form
   E. Criticism
-III. Theatre Artists
+##### III. Theatre Artists
   A. Responsibilities of theatre artists
   B. Theories
   C. Styles
