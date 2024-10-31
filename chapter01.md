@@ -11,9 +11,9 @@ Audience
 3. Analyze and apply the theatre artist's processes and contributions in acting.
 #### Topical Outline: I, II, III
 ##### I. Course Introduction
-  A. Definition of theatre as an art form
-  B. Theatre’s relationship to other arts
-  C. The value of theatre in society and culture
+    A. Definition of theatre as an art form
+    B. Theatre’s relationship to other arts
+    C. The value of theatre in society and culture
 ##### II. Audience
   A. Relationship to performers
   B. Communal experience
