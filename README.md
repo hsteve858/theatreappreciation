@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://hsteve858.github.io/theatreappreciation/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://hsteve858.github.io/theatreappreciation/document.epub)
+* [PDF](https://hsteve858.github.io/theatreappreciation/document.pdf)
+* [HTML](https://hsteve858.github.io/theatreappreciation/document.html)
 
 # Use this template
 
