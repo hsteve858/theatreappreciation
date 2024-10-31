@@ -1,4 +1,4 @@
-# Pythagorean theorem
+# Theatre Appreciation
 
 ## Representation
 
