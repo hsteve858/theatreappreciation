@@ -5,11 +5,11 @@
 ### Module 1: Basic Elements of Theatre: Actor, Space,
 Audience
 
-Related Outcomes: 1, 2, 3
+#### Related Outcomes: 1, 2, 3
 1. Identify the value and necessity of theatre arts in culture and society.
-2. Describe the relationship between the audience and the theatre artist. 3. Analyze and
-apply the theatre artist's processes and contributions in acting.
-Topical Outline: I, II, III
+2. Describe the relationship between the audience and the theatre artist.
+3. 3. Analyze and apply the theatre artist's processes and contributions in acting.
+#### Topical Outline: I, II, III
 I. Course Introduction
 A. Definition of theatre as an art form
 B. Theatre’s relationship to other arts
