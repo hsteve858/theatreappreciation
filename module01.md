@@ -44,35 +44,6 @@ III. Theatre Artists
 
 ---
 
-## Module 3: Describing Theatre: The Wide Variety of Theatre Genres 
-
-### Related Outcomes: 1, 10 
-1. Identify the value and necessity of theatre arts in culture and society. 
-2. Interpret and connect theatre arts as a historical form of literature and communication through critical analysis. 
-
-### Topical Outline: IV, V 
-IV. Styles and Practices of Drama 
-   - A. Western theatre styles 
-   - B. World theatre styles 
-   - C. Historical developments 
-
-V. Methods of Staging and Production 
-   - A. Elements of technical theatre 
-   - B. Staging methods and techniques 
-   - C. Theatre architecture 
-
-### Sways
-- Module 3 - The Play’s the Thing
-- Module 3 - Theatre Genres
-
-### Assignments:
-- Spotlight Paper
-- Staged Retelling (in class)
-- Reflection 3
-- Reflection 4
-
----
-
 ## Module 4: World Theatre: Theatre History, Methods, and Practices Around the World 
 
 ### Related Outcomes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 
