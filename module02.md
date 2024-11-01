@@ -1,15 +1,30 @@
-# Example video (test)
+## Module 2: Production Roles: Directors, Playwrights, Technicians, Designers, and Critics 
 
-a) Placeholder with link to Youtube
+### Related Outcomes: 4, 5, 6, 7, 8 
+4. Analyze and apply the theatre artist's processes and contributions in directing. 
+5. Analyze and apply the theatre artist's processes and contributions in playwriting. 
+6. Analyze and apply the theatre artist's processes and contributions in design. 
+7. Analyze and apply the theatre artist's processes and contributions in management. 
+8. Analyze and apply the theatre artist's processes and contributions in criticism. 
 
-[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
+### Topical Outline: III 
+III. Theatre Artists 
+   - A. Responsibilities of theatre artists 
+   - B. Theories 
+   - C. Styles 
+   - D. Contemporary theatre trends and social reflection 
 
-b) AV-Portal player embedded
+### Sways
+- Module 2 - The Director
+- Module 2 - The Playwright
+- Module 2 - Technicians and Designers (Part 1)
+- Module 2 - Technicians and Designers (Part 2)
+- Module 2 - Everyone's a Critic
 
-<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/40456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+### Assignments:
+- Reflection 1
+- Reflection 2
+- Padlet Discussion 2 – Share a theatre or movie experience and its impact.
+- Padlet Discussion 3 – Discuss interesting theatre jobs and their relevance to your career goals
 
-c) Youtube embedded
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen">
-</iframe>
+---
