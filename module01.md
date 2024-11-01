@@ -27,7 +27,7 @@ III. Theatre Artists
    - D. Contemporary theatre trends and social reflection 
 
 ### Sways
-- Module 1 - What is theatre? Introduction
+- Module 1 - [What is theatre? Introduction](https://oercommons.org/courseware/lesson/117855)
 - Module 1 - Defining Theatre and Theatre Spaces (Part 1)
 - Module 1 - Defining Theatre (Part 2)
 - Module 1 - What is the role of the audience?
