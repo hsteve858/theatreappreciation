@@ -28,8 +28,8 @@ III. Theatre Artists
 
 ### Sways
 - Module 1 - [What is theatre? Introduction](https://oercommons.org/courseware/lesson/117855)
-- Module 1 - Defining Theatre and Theatre Spaces (Part 1)
-- Module 1 - Defining Theatre (Part 2)
+- Module 1 - [Defining Theatre and Theatre Spaces (Part 1)](https://oercommons.org/courseware/lesson/117837)
+- Module 1 - [Defining Theatre (Part 2)](https://oercommons.org/courseware/lesson/117849)
 - Module 1 - What is the role of the audience?
 - Module 1 - Theatre Artists Overview
 - Module 1 - The Actor
